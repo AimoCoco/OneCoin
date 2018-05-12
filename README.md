@@ -1,0 +1,2 @@
+# OneCoin
+coin strategy
